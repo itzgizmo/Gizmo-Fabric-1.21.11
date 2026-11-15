@@ -4,6 +4,8 @@ Gizmo is a standalone Fabric **client-side** mod. It does not use or depend on M
 
 ## Current features
 
+- Press **G** in-game to open the Gizmo menu. The key can be changed in **Options → Controls → Key Binds → Gizmo**.
+- The menu lets you turn the nearby block scanner on or off.
 - Every second, checks blocks in a 16-block horizontal radius and 8-block vertical radius around the player.
 - Reports chests, trapped chests, barrels, ender chests, shulker boxes, obsidian, beacons and spawners in chat with their coordinates.
 - Scans only chunks already loaded by Minecraft on the client. It does not reveal unloaded/hidden chunks, inspect server-side data, send unusual packets, or bypass anti-cheat/server protections.
